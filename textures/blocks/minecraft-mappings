@@ -1,4 +1,8 @@
 grass/grass.png minecraft/textures/block/grass_block_top.png
 grass/grass.png minecraft/textures/block/grass_block_side.png
 grass/grass.png minecraft/textures/block/grass_block_side_overlay.png
+grass_blades/grass.png minecraft/textures/block/grass.png
+moss/moss.png minecraft/textures/block/moss_block.png
+cave_vines/vines.png minecraft/textures/block/cave_vines_plant.png
+cave_vines/vine_tip.png minecraft/textures/block/cave_vines.png
 stone/stone.png minecraft/textures/block/stone.png
