@@ -1,7 +1,11 @@
 #!/bin/bash
-input="./minetest-mappings"
-output_dir="minetest-vinox"
-[ ! -d $output_dir ] && echo "Making output directory as it doesn't exist" && mkdir -p $output_dir
+input="./minecraft-mappings"
+output_dir="minecraft-vinox/assets"
+
+# Reset
+rm -rf $output_dir
+mkdir -p $output_dir
+
 while IFS= read -r line
 do
   combo=($line)
