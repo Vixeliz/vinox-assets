@@ -4,6 +4,7 @@ grass/grass.png minecraft/textures/block/grass_block_side_overlay.png
 grass_blades/grass.png minecraft/textures/block/grass.png
 grass_blades/tall_grass_bottom.png minecraft/textures/block/tall_grass_bottom.png
 grass_blades/tall_grass_top.png minecraft/textures/block/tall_grass_top.png
+dirt/dirt.png minecraft/textures/block/dirt.png
 moss/moss.png minecraft/textures/block/moss_block.png
 moss/moss_bush.png minecraft/textures/block/azalea_side.png
 moss/moss_bush_top.png minecraft/textures/block/azalea_top.png
@@ -14,3 +15,4 @@ cave_vines/vine_tip.png minecraft/textures/block/cave_vines.png
 cave_vines/vines.png minecraft/textures/block/cave_vines_plant_lit.png
 cave_vines/vine_tip.png minecraft/textures/block/cave_vines_lit.png
 stone/stone.png minecraft/textures/block/stone.png
+bricks/bricks.png minecraft/textures/block/bricks.png
